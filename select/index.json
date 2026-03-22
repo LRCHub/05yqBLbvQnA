@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Hope (One Piece)",
+  "base_artist": "AmaLee",
+  "createdAt": "2026-03-22T11:50:40.914994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hope (One Piece)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/01_Hope_(One_Piece)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hope (One Piece)",
+      "artist": "Mattyyym",
+      "has_synced": false,
+      "path": "select/02_Hope_(One_Piece)_Mattyyym.txt"
+    }
+  ]
+}
